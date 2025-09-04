@@ -1,0 +1,5 @@
+name: recipes
+description: A small Dart package demonstrating builder-style composition models for weekly menus.
+version: 0.1.0
+environment:
+  sdk: '>=2.17.0 <3.0.0'

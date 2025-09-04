@@ -1,0 +1,172 @@
+[
+  {
+    "dayOfWeek": "Monday",
+    "recipe": {
+      "name": "Spaghetti Bolognese",
+      "ingredients": [
+        { "name": "Ground Beef", "quantity": 500, "unitOfMeasure": "g" },
+        { "name": "Canned Tomatoes", "quantity": 400, "unitOfMeasure": "g" },
+        { "name": "Onion", "quantity": 1, "unitOfMeasure": "unit" },
+        { "name": "Garlic", "quantity": 2, "unitOfMeasure": "cloves" },
+        { "name": "Spaghetti", "quantity": 300, "unitOfMeasure": "g" },
+        { "name": "Olive Oil", "quantity": 2, "unitOfMeasure": "tbsp" },
+        { "name": "Parmesan Cheese", "quantity": 50, "unitOfMeasure": "g" }
+      ],
+      "steps": [
+        { "stepOrder": 1, "instruction": "Heat olive oil in a large pot." },
+        { "stepOrder": 2, "instruction": "Add chopped onion and garlic, cook until softened." },
+        { "stepOrder": 3, "instruction": "Add ground beef and cook until browned, breaking it up with a spoon." },
+        { "stepOrder": 4, "instruction": "Drain any excess fat." },
+        { "stepOrder": 5, "instruction": "Stir in canned tomatoes (crushed or diced) and bring to a simmer." },
+        { "stepOrder": 6, "instruction": "Reduce heat and let it simmer for at least 30 minutes, stirring occasionally." },
+        { "stepOrder": 7, "instruction": "Cook spaghetti according to package instructions." },
+        { "stepOrder": 8, "instruction": "Serve Bolognese sauce over spaghetti, topped with grated Parmesan cheese." }
+      ]
+    }
+  },
+  {
+    "dayOfWeek": "Tuesday",
+    "recipe": {
+      "name": "Chicken Stir-fry",
+      "ingredients": [
+        { "name": "Chicken Breast", "quantity": 300, "unitOfMeasure": "g" },
+        { "name": "Broccoli", "quantity": 1, "unitOfMeasure": "head" },
+        { "name": "Carrots", "quantity": 2, "unitOfMeasure": "unit" },
+        { "name": "Bell Pepper", "quantity": 1, "unitOfMeasure": "unit" },
+        { "name": "Soy Sauce", "quantity": 4, "unitOfMeasure": "tbsp" },
+        { "name": "Ginger", "quantity": 1, "unitOfMeasure": "inch piece" },
+        { "name": "Garlic", "quantity": 2, "unitOfMeasure": "cloves" },
+        { "name": "Rice", "quantity": 200, "unitOfMeasure": "g" }
+      ],
+      "steps": [
+        { "stepOrder": 1, "instruction": "Slice chicken breast into thin strips." },
+        { "stepOrder": 2, "instruction": "Chop broccoli, slice carrots and bell pepper." },
+        { "stepOrder": 3, "instruction": "Grate ginger and mince garlic." },
+        { "stepOrder": 4, "instruction": "Heat oil in a wok or large pan." },
+        { "stepOrder": 5, "instruction": "Add chicken and stir-fry until cooked through." },
+        { "stepOrder": 6, "instruction": "Add vegetables, ginger, and garlic. Stir-fry for 3-5 minutes until tender-crisp." },
+        { "stepOrder": 7, "instruction": "Pour in soy sauce and toss to combine." },
+        { "stepOrder": 8, "instruction": "Serve hot with cooked rice." }
+      ]
+    }
+  },
+  {
+    "dayOfWeek": "Wednesday",
+    "recipe": {
+      "name": "Vegetable Curry",
+      "ingredients": [
+        { "name": "Mixed Vegetables", "quantity": 400, "unitOfMeasure": "g" },
+        { "name": "Coconut Milk", "quantity": 400, "unitOfMeasure": "ml" },
+        { "name": "Curry Paste", "quantity": 2, "unitOfMeasure": "tbsp" },
+        { "name": "Onion", "quantity": 1, "unitOfMeasure": "unit" },
+        { "name": "Garlic", "quantity": 2, "unitOfMeasure": "cloves" },
+        { "name": "Rice", "quantity": 200, "unitOfMeasure": "g" }
+      ],
+      "steps": [
+        { "stepOrder": 1, "instruction": "Chop onion and mince garlic." },
+        { "stepOrder": 2, "instruction": "Heat a little oil in a pot." },
+        { "stepOrder": 3, "instruction": "Sauté onion and garlic until fragrant." },
+        { "stepOrder": 4, "instruction": "Add curry paste and cook for 1 minute, stirring." },
+        { "stepOrder": 5, "instruction": "Add mixed vegetables and stir to coat." },
+        { "stepOrder": 6, "instruction": "Pour in coconut milk and bring to a simmer." },
+        { "stepOrder": 7, "instruction": "Cook until vegetables are tender, about 15-20 minutes." },
+        { "stepOrder": 8, "instruction": "Serve with cooked rice." }
+      ]
+    }
+  },
+  {
+    "dayOfWeek": "Thursday",
+    "recipe": {
+      "name": "Fish and Chips",
+      "ingredients": [
+        { "name": "Cod Fillets", "quantity": 400, "unitOfMeasure": "g" },
+        { "name": "Potatoes", "quantity": 500, "unitOfMeasure": "g" },
+        { "name": "All-purpose Flour", "quantity": 100, "unitOfMeasure": "g" },
+        { "name": "Beer (or sparkling water)", "quantity": 150, "unitOfMeasure": "ml" },
+        { "name": "Salt", "quantity": 1, "unitOfMeasure": "tsp" },
+        { "name": "Vegetable Oil", "quantity": 500, "unitOfMeasure": "ml" }
+      ],
+      "steps": [
+        { "stepOrder": 1, "instruction": "Peel and cut potatoes into thick chips. Rinse and pat dry." },
+        { "stepOrder": 2, "instruction": "Heat vegetable oil in a deep pan to 170°C (340°F)." },
+        { "stepOrder": 3, "instruction": "Fry chips in batches until golden and crisp. Drain and season with salt." },
+        { "stepOrder": 4, "instruction": "For the batter, whisk flour, salt, and beer until smooth." },
+        { "stepOrder": 5, "instruction": "Dip fish fillets into the batter, ensuring they are fully coated." },
+        { "stepOrder": 6, "instruction": "Carefully lower battered fish into the hot oil. Fry for 5-7 minutes until golden brown and cooked through." },
+        { "stepOrder": 7, "instruction": "Drain on paper towels." },
+        { "stepOrder": 8, "instruction": "Serve fish immediately with the chips." }
+      ]
+    }
+  },
+  {
+    "dayOfWeek": "Friday",
+    "recipe": {
+      "name": "Homemade Pizza",
+      "ingredients": [
+        { "name": "Pizza Dough", "quantity": 1, "unitOfMeasure": "ball" },
+        { "name": "Tomato Sauce", "quantity": 100, "unitOfMeasure": "ml" },
+        { "name": "Mozzarella Cheese", "quantity": 150, "unitOfMeasure": "g" },
+        { "name": "Pepperoni", "quantity": 50, "unitOfMeasure": "g" },
+        { "name": "Mushrooms", "quantity": 100, "unitOfMeasure": "g" },
+        { "name": "Olive Oil", "quantity": 1, "unitOfMeasure": "tbsp" }
+      ],
+      "steps": [
+        { "stepOrder": 1, "instruction": "Preheat oven to 220°C (425°F) with a pizza stone or baking steel if you have one." },
+        { "stepOrder": 2, "instruction": "Roll out pizza dough on a floured surface to your desired thickness." },
+        { "stepOrder": 3, "instruction": "Transfer dough to a parchment-lined baking sheet or pizza peel." },
+        { "stepOrder": 4, "instruction": "Spread tomato sauce evenly over the dough, leaving a small border for the crust." },
+        { "stepOrder": 5, "instruction": "Sprinkle with mozzarella cheese, then add pepperoni and sliced mushrooms." },
+        { "stepOrder": 6, "instruction": "Drizzle with a little olive oil." },
+        { "stepOrder": 7, "instruction": "Bake for 10-15 minutes, or until the crust is golden and the cheese is bubbly and slightly browned." },
+        { "stepOrder": 8, "instruction": "Slice and serve hot." }
+      ]
+    }
+  },
+  {
+    "dayOfWeek": "Saturday",
+    "recipe": {
+      "name": "Beef Tacos",
+      "ingredients": [
+        { "name": "Ground Beef", "quantity": 400, "unitOfMeasure": "g" },
+        { "name": "Taco Seasoning", "quantity": 1, "unitOfMeasure": "packet" },
+        { "name": "Taco Shells", "quantity": 12, "unitOfMeasure": "units" },
+        { "name": "Lettuce", "quantity": 1, "unitOfMeasure": "head" },
+        { "name": "Tomato", "quantity": 2, "unitOfMeasure": "units" },
+        { "name": "Shredded Cheese", "quantity": 100, "unitOfMeasure": "g" },
+        { "name": "Salsa", "quantity": 1, "unitOfMeasure": "jar" }
+      ],
+      "steps": [
+        { "stepOrder": 1, "instruction": "Brown ground beef in a large skillet. Drain fat." },
+        { "stepOrder": 2, "instruction": "Stir in taco seasoning and water according to package directions. Simmer for 5-7 minutes." },
+        { "stepOrder": 3, "instruction": "Warm taco shells in the oven or microwave." },
+        { "stepOrder": 4, "instruction": "Shred lettuce and dice tomatoes." },
+        { "stepOrder": 5, "instruction": "Serve beef in warm taco shells with lettuce, tomato, shredded cheese, and salsa." }
+      ]
+    }
+  },
+  {
+    "dayOfWeek": "Sunday",
+    "recipe": {
+      "name": "Roast Chicken Dinner",
+      "ingredients": [
+        { "name": "Whole Chicken", "quantity": 1.5, "unitOfMeasure": "kg" },
+        { "name": "Potatoes", "quantity": 800, "unitOfMeasure": "g" },
+        { "name": "Carrots", "quantity": 4, "unitOfMeasure": "units" },
+        { "name": "Onions", "quantity": 2, "unitOfMeasure": "units" },
+        { "name": "Rosemary", "quantity": 2, "unitOfMeasure": "sprigs" },
+        { "name": "Olive Oil", "quantity": 3, "unitOfMeasure": "tbsp" },
+        { "name": "Salt", "quantity": 1, "unitOfMeasure": "tsp" },
+        { "name": "Black Pepper", "quantity": 0.5, "unitOfMeasure": "tsp" }
+      ],
+      "steps": [
+        { "stepOrder": 1, "instruction": "Preheat oven to 200°C (400°F)." },
+        { "stepOrder": 2, "instruction": "Pat chicken dry with paper towels. Rub with olive oil, salt, pepper, and rosemary." },
+        { "stepOrder": 3, "instruction": "Chop potatoes, carrots, and onions into large chunks." },
+        { "stepOrder": 4, "instruction": "Place chicken in a roasting pan. Arrange vegetables around the chicken." },
+        { "stepOrder": 5, "instruction": "Roast for 1 hour 15 minutes to 1 hour 45 minutes, or until internal temperature of chicken reaches 74°C (165°F) and vegetables are tender and browned." },
+        { "stepOrder": 6, "instruction": "Let chicken rest for 10 minutes before carving." },
+        { "stepOrder": 7, "instruction": "Serve chicken with roasted vegetables." }
+      ]
+    }
+  }
+]
