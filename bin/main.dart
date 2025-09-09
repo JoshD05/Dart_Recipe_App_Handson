@@ -19,7 +19,12 @@ Future<void> main() async {
 
 //List<Menu> menus = [];
 
+var step = StepModel(
+  stepOrder: 1,
+  instruction: 'Heat up some water',
+);
 
+print(step.toString());
 
 // DO NOT MODIFY CODE BELOW THIS LINE
 // UNCOMMENT THE CODE BELOW WHEN YOU ARE READY TO TEST
